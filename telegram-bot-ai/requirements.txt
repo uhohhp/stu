@@ -1,0 +1,9 @@
+python-telegram-bot==20.*
+requests
+google-api-python-client
+google-auth
+aiohttp
+python-dotenv
+SQLAlchemy
+psycopg2-binary
+google-generativeai

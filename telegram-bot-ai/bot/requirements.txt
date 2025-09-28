@@ -1,0 +1,12 @@
+python-telegram-bot==20.8
+SQLAlchemy==2.0.30
+requests==2.31.0
+google-generativeai==0.5.2
+google-api-python-client==2.148.0
+google-auth==2.34.0
+google-auth-oauthlib==1.2.1
+SpeechRecognition
+pydub
+ffmpeg-python
+google-generativeai
+python-telegram-bot
